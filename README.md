@@ -1,5 +1,7 @@
 # ramon
 
+![](./assets/roomba.jpeg)
+
 Ramon is an environment to build and experiment with different path-planning algorithms.
 
 The goal is to simulate the behaviour of a roomba robot in navigating and cleaning a room.
